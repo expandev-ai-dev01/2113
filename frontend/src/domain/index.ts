@@ -1,2 +1,1 @@
-// Domain modules export
-export {};
+export * as weather from './weather/_module';
